@@ -92,7 +92,7 @@ JavaScript本身是基于原型的面向对象语言，从设计模式的角度�
 	3. 在该对象中依然没有找到name属性，于是请求被委托给这个对象的构造器的原型A.prototype，而A.prototype被设置为对象obj。
 	4. 在对象obj中找到了name属性，并返回它的值。
 
-注： ES6带来了新的Class语法，但其背后仍是通过原型机制来创建对象。简单代码实例：
+注： ES6带来了新的Class语法，但其背后仍是通过原型机制来创建对象。[简单代码实例](http://jurberg.github.io/blog/2014/07/12/javascript-prototype/)：
 ``` javascript
 Class Animal {
 	constructor(name) {
