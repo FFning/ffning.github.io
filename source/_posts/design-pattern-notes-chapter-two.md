@@ -1,8 +1,7 @@
 ---
 title: 《JavaScript设计模式与开发实践》——this、call和apply
 date: 2017-05-19 03:47:45
-categories: 读书笔记
-tags: [JavaScript设计模式与开发实践, 读书笔记]
+tags: [设计模式, JS, 读书笔记]
 ---
 # 第2章 this、call和apply
 

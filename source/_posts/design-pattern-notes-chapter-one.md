@@ -1,8 +1,7 @@
 ---
 title: 《JavaScript设计模式与开发实践》——面向对象的JavaScript
 date: 2017-05-18 04:22:28
-categories: 读书笔记
-tags: [JavaScript设计模式与开发实践, 读书笔记]
+tags: [设计模式, JS, 读书笔记, 面向对象]
 ---
 # 第1章 面向对象的JavaScript
 
